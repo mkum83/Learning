@@ -10,3 +10,6 @@ https://rubygarage.org/blog/react-vs-angularjs
 
 choosing-the-right-framework
 http://www.effectiveui.com/blog/2015/08/03/angular-vs-react-choosing-the-right-framework/
+
+8-css-gotchas-to-start-your-morning-off-right
+https://medium.com/@isaaclyman/8-css-gotchas-to-start-your-morning-off-right-c5daade0731d
