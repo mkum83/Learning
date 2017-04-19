@@ -13,3 +13,7 @@ http://www.effectiveui.com/blog/2015/08/03/angular-vs-react-choosing-the-right-f
 
 8-css-gotchas-to-start-your-morning-off-right
 https://medium.com/@isaaclyman/8-css-gotchas-to-start-your-morning-off-right-c5daade0731d
+
+
+react-is-taking-over-front-end-development-the-question-is-why-
+https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76?imm_mid=0f0065
