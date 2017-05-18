@@ -23,3 +23,6 @@ https://www.youtube.com/watch?v=b5UjDaWyUB8
 
 ### How to use GIT
 http://rogerdudler.github.io/git-guide/
+
+### Reactjs - Basic info
+http://www.webdevelopmenthelp.net/2016/12/reactjs-interview-questions.html
