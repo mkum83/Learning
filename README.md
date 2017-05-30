@@ -26,3 +26,6 @@ http://rogerdudler.github.io/git-guide/
 
 ### Reactjs - Basic info
 http://www.webdevelopmenthelp.net/2016/12/reactjs-interview-questions.html
+
+### Angular2-Getting Started
+https://github.com/DeborahK/Angular2-GettingStarted
