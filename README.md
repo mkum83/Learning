@@ -28,4 +28,5 @@ http://rogerdudler.github.io/git-guide/
 http://www.webdevelopmenthelp.net/2016/12/reactjs-interview-questions.html
 
 ### Angular2-Getting Started
-https://github.com/DeborahK/Angular2-GettingStarted
+Amazing tutorial from [Deborah kurata](https://github.com/DeborahK)
+[Angular 2 Getting Started Tutorial](https://app.pluralsight.com/player?course=angular-2-getting-started-update&author=deborah-kurata&name=angular-2-getting-started-update-m0&clip=0), Git Repo is [here](https://github.com/DeborahK/Angular2-GettingStarted)
